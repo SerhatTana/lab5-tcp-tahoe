@@ -1,0 +1,24 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Object files
+*.lo
+*.la
+
+# Debug files
+*.dSYM/
+*.su
+
+# Build directories
+build/
+dist/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
